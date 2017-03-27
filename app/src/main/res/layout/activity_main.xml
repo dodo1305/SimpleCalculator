@@ -66,10 +66,10 @@
         android:text="/"/>
 
     <TextView
-        android:layout_weight="match_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="30sp"
-        android:textColor="#000000"
+        android:textColor="#01faa7"
         />
 
 
