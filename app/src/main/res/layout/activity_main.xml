@@ -27,23 +27,11 @@
         android:hint="정수 값으로 입력하세요 : "
         />
 
-    <EditText
-        android:id="@+id/edit_third"
-        android:layout_width="50dp"
-        android:layout_height="wrap_content"
-        android:hint="정수 값으로 입력하세요 : " />
-
-    <EditText
-        android:id="@+id/edit_fourth"
-        android:layout_width="50dp"
-        android:layout_height="wrap_content"
-        android:hint="정수 값으로 입력하세요 : " />
-
     <Button
         android:id="@+id/but_plus"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="+"/>
+        android:text="+" />
 
     <Button
         android:id="@+id/but_minus"
