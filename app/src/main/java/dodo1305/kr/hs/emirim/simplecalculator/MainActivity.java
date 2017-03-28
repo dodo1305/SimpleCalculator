@@ -95,6 +95,7 @@ public class MainActivity extends AppCompatActivity  /*implements View.OnClickLi
 
 
             }
+            textResult.setText(result+"");
         }
     };
 
